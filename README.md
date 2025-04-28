@@ -45,3 +45,11 @@ The following modifications were made to address various issues and discrepancie
 4. Added a built-in Smart Quotes feature.
 5. Added ZWNJ mapping as gg
 6. Added ZWJ mapping as GG
+
+## Contributing
+
+Feel free to open issues or submit pull requests if you encounter any problems or have suggestions for improvement.
+
+## Credits
+
+Modified by [nazdridoy](https://github.com/nazdridoy)

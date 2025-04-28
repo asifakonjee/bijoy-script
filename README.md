@@ -43,3 +43,5 @@ The following modifications were made to address various issues and discrepancie
 2. Fixed mapping for `'`, which was previously broken.
 3. Fixed mapping for `"`, which was previously broken.
 4. Added a built-in Smart Quotes feature.
+5. Added ZWNJ mapping as gg
+6. Added ZWJ mapping as GG

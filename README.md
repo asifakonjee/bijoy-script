@@ -8,13 +8,13 @@
 ### fcitx5 এর জন্যে
 টার্মিনাল ওপেন করে নিচের কমান্ডটি কপি করে টার্মিনালে পেস্ট করুনঃ
 ```bash
-bash -c "$(wget -q https://raw.githubusercontent.com/asifakonjee/bijoy-modified/master/fcitx5.sh -O -)"
+bash -c "$(wget -q https://raw.githubusercontent.com/asifakonjee/bijoy-script/master/fcitx5.sh -O -)"
 ```
 
 ### ibus এর জন্যে
 টার্মিনাল ওপেন করে নিচের কমান্ডটি কপি করে টার্মিনালে পেস্ট করুনঃ
 ```bash
-bash -c "$(wget -q https://raw.githubusercontent.com/asifakonjee/bijoy-modified/master/ibus.sh -O -)"
+bash -c "$(wget -q https://raw.githubusercontent.com/asifakonjee/bijoy-script/master/ibus.sh -O -)"
 ```
 
 

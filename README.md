@@ -38,7 +38,7 @@ XMODIFIERS=@im=ibus
 
 ## Modifications
 
-### বর্তমানে বিজয় লিনাক্স ব্যক্তিগত ব্যবহারের জন্য বিনামূলয়ে বিতরণ করা হচ্ছে। যদি এটি ভবিষ্যতে পরিবর্তন হয় বা মূল্য নির্ধারণ করা হয় তাহলে এই রিপোজিটরি স্থাহীভাবে রিমুভ করে দেওয়া হবে কেননা বিজয় প্রোপাইটারি কিবোর্ড লেআউট। 
+### বর্তমানে বিজয় লিনাক্স ব্যক্তিগত ব্যবহারের জন্য বিনামূলয়ে বিতরণ করা হচ্ছে। যদি এটি ভবিষ্যতে পরিবর্তন হয় বা মূল্য নির্ধারণ করা হয় তাহলে এই রিপোজিটরি স্থাইীভাবে রিমুভ করে দেওয়া হবে কেননা বিজয় কপিরাইটেড এবং প্রোপাইটারি কিবোর্ড লেআউট। 
 
 This repository will install modified versions of `bn-bijoyClassic.mim` and `bn-bijoyUnicode.mim`, originally provided by Ananda Computers at [bijoyekushe.net.bd](https://bijoyekushe.net.bd/index.php?action=bijoy_linux). All rights of these files are to copyright © Mustafa Jabbar.
 

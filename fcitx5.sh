@@ -137,11 +137,11 @@ printf "${action} Installing ANSI and Unicode fonts...\n"
 font_dir="$HOME/.local/share/fonts"
 mkdir -p "$font_dir"
 
-if [ -d "ANSI\ fonts" ]; then
-    cp -rv ANSI\ fonts "$font_dir/"
+if [ -d "ANSI fonts" ]; then
+    cp -rv "ANSI fonts" "$font_dir/"
 fi
-if [ -d "Unicode\ fonts" ]; then
-    cp -rv Unicode\ fonts "$font_dir/"
+if [ -d "Unicode fonts" ]; then
+    cp -rv "Unicode fonts" "$font_dir/"
 fi
 
 #====================[ Refresh Font Cache ]====================#

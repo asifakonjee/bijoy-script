@@ -138,10 +138,10 @@ font_dir="$HOME/.local/share/fonts"
 mkdir -p "$font_dir"
 
 if [ -d "ANSI fonts" ]; then
-    find "ANSI fonts" -type f -iname "*.ttf" -exec cp -v {} "$font_dir/" \;
+    cp -rv "ANSI fonts" "$font_dir/"
 fi
 if [ -d "Unicode fonts" ]; then
-    find "Unicode fonts" -type f -iname "*.ttf" -exec cp -v {} "$font_dir/" \;
+    cp -rv "Unicode fonts" "$font_dir/"
 fi
 
 #====================[ Refresh Font Cache ]====================#

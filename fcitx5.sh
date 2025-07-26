@@ -140,8 +140,8 @@ mkdir -p "$font_dir"
 if [ -d "ANSI fonts" ]; then
     cp -rv "ANSI fonts" "$font_dir/"
 fi
-if [ -d "Unicode fonts" ]; then
-    cp -rv "Unicode fonts" "$font_dir/"
+if [ -d "Unicode Fonts" ]; then
+    cp -rv "Unicode Fonts" "$font_dir/"
 fi
 
 #====================[ Refresh Font Cache ]====================#
